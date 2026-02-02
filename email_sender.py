@@ -307,6 +307,7 @@ CRITICAL REQUIREMENTS FOR A HIGH-RESPONSE EMAIL:
    - Do NOT mention candidate name in the body (it's already in signature)
    - Do NOT mention LinkedIn/contact info in the body (it's already in signature)
    - Do NOT introduce yourself by name (just start with achievements or company reference)
+   - Make it really personalized by saying Hi/Hello name of the HR or something better if you can
    - The signature at bottom already has: name, LinkedIn - so don't repeat
 8. FORMATTING:
    - Use **bold** (double asterisks) for 1-2 KEY points you want HR to notice
