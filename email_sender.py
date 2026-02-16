@@ -274,6 +274,9 @@ CANDIDATE DETAILS:
 CANDIDATE'S AREA OF INTEREST/EXPERTISE:
 {target_roles}
 
+- If you dont find the HR name in the excel sheet just extract the name from the email id 
+- If you dont find the HR title just do not include it anywhere.
+
 CRITICAL REQUIREMENTS FOR A HIGH-RESPONSE EMAIL:
 1. SUBJECT LINE (MOST IMPORTANT - HR decides to open or delete based on this!):
    - Make it IRRESISTIBLE, eye-catching, and impossible to ignore
