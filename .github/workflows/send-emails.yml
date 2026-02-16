@@ -19,7 +19,7 @@ on:
       email_count:
         description: 'Number of emails to send (max 50)'
         required: false
-        default: '10'
+        default: '25'
         type: string
 
 # Need write permission to commit sent_log.csv
