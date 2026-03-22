@@ -17,7 +17,7 @@ on:
         default: 'false'
         type: boolean
       email_count:
-        description: 'Number of emails to send (max 50)'
+        description: 'Number of emails to send (max 200)'
         required: false
         default: '100'
         type: string
@@ -75,7 +75,7 @@ jobs:
           
           # Email settings
           DELAY_BETWEEN_EMAILS = 45
-          DAILY_LIMIT = ${{ github.event.inputs.email_count || '10' }}
+          DAILY_LIMIT = ${{ github.event.inputs.email_count || '100' }}
           TEST_EMAIL = "${{ secrets.TEST_EMAIL }}"
           BCC_EMAIL = "${{ secrets.BCC_EMAIL }}"
           EOF
